@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ignite"
+  },
+  "targets": {
+    "ignite": {
+      "hosting": {
+        "docs.ignite.com": [
+          "ignite-go-docs"
+        ]
+      }
+    }
+  }
+}
